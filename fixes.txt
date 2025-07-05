@@ -11,3 +11,5 @@ fifth bug fixed
 pink mode bug fixed
 
 another fix for purple-mode, yet another
+
+change to check github vscode link 
