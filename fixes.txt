@@ -10,4 +10,4 @@ fifth bug fixed
 
 pink mode bug fixed
 
-another fix for purple-mode
+another fix for purple-mode, yet another
