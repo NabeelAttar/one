@@ -1,1 +1,2 @@
 i am a fix file and im used to fix bugs
+fixed another bug
